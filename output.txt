@@ -1,0 +1,27 @@
+Scenario: Expected result 16.7%
+Count of True : 16564
+Count of False : 83436
+Condition reached 16.564%
+
+Scenario: Expected result 70%
+Count of True : 69922
+Count of False : 30078
+Condition reached 69.922%
+
+Scenario: Expected result 25%
+Count of True : 24770
+Count of False : 75230
+Condition reached 24.77%
+
+Scenario: Expected result 35%
+Count of True : 35308
+Count of False : 64692
+Condition reached 35.308%
+
+Scenario: Expected result 27.75%
+Count of True : 27848
+Count of False : 72152
+Condition reached 27.848%
+
+
+
